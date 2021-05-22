@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "_id": "press1",
+            "title": "カジュアル 結び目",
+            "image":"/images/dress1.jpg",
+            "description": "about dress 1",
+            "price": 19,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "press2",
+            "title": "SHEIN エレガント",
+            "image":"/images/dress2.jpg",
+            "description": "about dress 2",
+            "price": 17.5,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "press3",
+            "title": "配色スリーブスクエアネックワンピース",
+            "image":"/images/dress3.jpg",
+            "description": "about dress 3",
+            "price": 20,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "press4",
+            "title": "SHEIN エレガント レタスのトリム",
+            "image":"/images/dress4.jpg",
+            "description": "about dress 4",
+            "price": 21,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "press5",
+            "title": "Kamilla Bandage Dress",
+            "image":"/images/dress5.webp",
+            "description": "about dress 5",
+            "price": 22,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "_id": "press6",
+            "title": "Dress for Women",
+            "image":"/images/dress6.jpg",
+            "description": "about dress 6",
+            "price": 22,
+            "availableSizes": [
+                "XL",
+                "XXL"
+            ]
+        }
+    ]
+}
